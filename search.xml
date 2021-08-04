@@ -8,7 +8,7 @@
       <link href="/2021/08/01/afl-basis/"/>
       <url>/2021/08/01/afl-basis/</url>
       
-        <content type="html"><![CDATA[<h2 id="AFL">AFL</h2>]]></content>
+        <content type="html"><![CDATA[<h1>AFL简介</h1><div class="note primary simple"><p>模糊测试（Fuzzing）技术</p></div>]]></content>
       
       
       <categories>
